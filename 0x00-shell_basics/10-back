@@ -1,2 +1,2 @@
-#!/bin/basd 
-cd -
+#!/bin/bash
+cd ..
